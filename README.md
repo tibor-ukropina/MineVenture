@@ -4,3 +4,5 @@ MineVenture is an open-world adventure created with C and OpenGL. This game come
 
 Click here to watch the trailer:
 https://youtu.be/Nj5wnrSfZcM
+
+![](images/Picture1.png)
